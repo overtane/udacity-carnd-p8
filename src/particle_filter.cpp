@@ -2,7 +2,10 @@
  * particle_filter.cpp
  *
  *  Created on: Dec 12, 2016
- *      Author: Tiffany Huang
+ *  Author: Tiffany Huang
+ *
+ *  Particle filter implementation: Jul 5, 2017
+ *  Author: Olli Vertanen
  */
 
 #include <random>
